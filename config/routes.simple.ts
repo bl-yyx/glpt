@@ -17,6 +17,12 @@ export default [
     component: './Welcome',
   },
   {
+    path: '/test',
+    name: '测试',
+    icon: 'smile',
+    component: './test',
+  },
+  {
     path: '/admin',
     name: '管理页',
     icon: 'crown',
